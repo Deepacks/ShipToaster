@@ -1,0 +1,15 @@
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\hack.exe.config
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\hack.exe
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\hack.pdb
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\Memory.dll
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\Memory.xml
+C:\Users\vladi\source\repos\hack\hack\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.Form1.resources
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.Properties.Resources.resources
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.csproj.CopyComplete
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.exe
+C:\Users\vladi\source\repos\hack\hack\obj\Debug\hack.pdb

@@ -1,0 +1,15 @@
+C:\Users\vladi\source\repos\hack\hack\bin\Release\hack.exe.config
+C:\Users\vladi\source\repos\hack\hack\bin\Release\hack.exe
+C:\Users\vladi\source\repos\hack\hack\bin\Release\hack.pdb
+C:\Users\vladi\source\repos\hack\hack\bin\Release\Memory.dll
+C:\Users\vladi\source\repos\hack\hack\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\vladi\source\repos\hack\hack\bin\Release\Memory.xml
+C:\Users\vladi\source\repos\hack\hack\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.Form1.resources
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.Properties.Resources.resources
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.csproj.CopyComplete
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.exe
+C:\Users\vladi\source\repos\hack\hack\obj\Release\hack.pdb
