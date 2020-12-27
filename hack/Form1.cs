@@ -43,7 +43,7 @@ namespace hack
         private void button2_Click(object sender, EventArgs e)
         {
             memory.OpenProcess(Process.GetProcessesByName("Among US").FirstOrDefault().Id);
-            memory.WriteMemory("GameAssembly.dll+01BC7D88,8,B78", "float", textBox2.Text);
+            memory.WriteMemory("GameAssembly.dll+01C4B4B8,5C,24,18", "float", textBox2.Text);
         }
     }
 }
