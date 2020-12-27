@@ -44,6 +44,12 @@ namespace hack
         {
             memory.OpenProcess(Process.GetProcessesByName("Among US").FirstOrDefault().Id);
             memory.WriteMemory("GameAssembly.dll+01C4B4B8,5C,24,18", "float", textBox2.Text);
+            memory.WriteMemory("GameAssembly.dll+01C68F58,5C,E4,1C", "float", textBox2.Text);
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

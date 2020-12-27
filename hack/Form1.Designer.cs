@@ -56,7 +56,7 @@ namespace hack
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(109, 14);
+            this.textBox1.Location = new System.Drawing.Point(106, 14);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
@@ -86,7 +86,7 @@ namespace hack
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(109, 47);
+            this.textBox2.Location = new System.Drawing.Point(106, 47);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 4;
@@ -122,11 +122,12 @@ namespace hack
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.Snow;
-            this.label4.Location = new System.Drawing.Point(12, 50);
+            this.label4.Location = new System.Drawing.Point(33, 50);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(91, 13);
+            this.label4.Size = new System.Drawing.Size(41, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Visione Crewmate";
+            this.label4.Text = "Visione";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // Form1
             // 
